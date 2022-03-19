@@ -1,2 +1,2 @@
-# hello-world-echo
-# hello-world-echo
+Migrate generate command:
+migrate create -ext sql -dir migrations -seq init
